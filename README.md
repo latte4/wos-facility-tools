@@ -1,4 +1,4 @@
-# Whiteout　Survival　ステーション保護解除時間計算ツール
+# Whiteout Survival ステーション保護解除時間計算ツール
 
 Whiteout Survival の「ステーション保護解除」の時間を自動計算し、  
 Google カレンダーに登録するためのツールです。

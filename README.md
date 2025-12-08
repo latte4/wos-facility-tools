@@ -29,7 +29,6 @@ pip install --upgrade pytesseract opencv-python Pillow
 Google カレンダー連携に必要なもの
 ```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-
 ```
 
 ### 作成されるイベント

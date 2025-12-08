@@ -42,4 +42,6 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 - 通知: 開始 2 分前にポップアップ通知 1 回（default 通知は無効化）
 
 ---
+<img width="692" height="1029" alt=" 2025-12-08 20 43 36" src="https://github.com/user-attachments/assets/737940a6-5292-48d4-ae80-66c55482fee4" />
+
 

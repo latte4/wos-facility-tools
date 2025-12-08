@@ -15,9 +15,10 @@ Google カレンダーへ一括登録するためのツールです。
 
 - Python 3.10+ がインストールされていること。
 - タイムゾーンは `Asia/Tokyo` 前提で動作。
+- 同盟⇒拠点争奪⇒工程ステーション のスクリーンショット(`wos.png`)
 - Google カレンダー連携を使うためGoogle Cloud Console で
   Calendar API を有効化し、デスクトップアプリ用 OAuth クライアントの
-  `credentials.json` を同じディレクトリに置いておくこと。[web:159][web:167][web:169][web:175]
+  `credentials.json` を同じディレクトリに置いておくこと。
 
 ## 必要なライブラリ
 
